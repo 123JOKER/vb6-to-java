@@ -1,0 +1,6 @@
+Dim a,b,c,p,s As Single
+a=Val(TextBox1.Text)
+b=Val(TextBox2.Text)
+c=Val(TextBox3.Text)
+ifa+b>c And b+c>a And a+c>b Then
+c=A+B
